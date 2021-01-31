@@ -1,0 +1,694 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EE6CFF5825C54AB000A6C9B5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE6CFF5725C54AB000A6C9B5 /* main.cpp */; };
+		EE6CFF6625C59B8300A6C9B5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE6CFF6525C59B8300A6C9B5 /* main.cpp */; };
+		EE76DAAB25C658C5005055B6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE76DAAA25C658C5005055B6 /* main.cpp */; };
+		EE76DAB925C66B42005055B6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE76DAB825C66B42005055B6 /* main.cpp */; };
+		EE76DAC825C68A5D005055B6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE76DAC725C68A5D005055B6 /* main.cpp */; };
+		EE76DAD825C6D16D005055B6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE76DAD725C6D16D005055B6 /* main.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		EE6CFF5225C54AB000A6C9B5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		EE6CFF6125C59B8300A6C9B5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		EE76DAA625C658C5005055B6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		EE76DAB425C66B42005055B6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		EE76DAC325C68A5D005055B6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		EE76DAD325C6D16D005055B6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		EE6CFF5425C54AB000A6C9B5 /* ONLINE JUDGE */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ONLINE JUDGE"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE6CFF5725C54AB000A6C9B5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		EE6CFF6325C59B8300A6C9B5 /* 3n+1 Problem */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "3n+1 Problem"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE6CFF6525C59B8300A6C9B5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		EE76DAA825C658C5005055B6 /* The Trip */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "The Trip"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE76DAAA25C658C5005055B6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		EE76DAB625C66B42005055B6 /* LCD Display */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "LCD Display"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE76DAB825C66B42005055B6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		EE76DAC525C68A5D005055B6 /* Graphical Editor */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Graphical Editor"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE76DAC725C68A5D005055B6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		EE76DAD525C6D16D005055B6 /* Check the Check */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Check the Check"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE76DAD725C6D16D005055B6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EE6CFF5125C54AB000A6C9B5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE6CFF6025C59B8300A6C9B5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE76DAA525C658C5005055B6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE76DAB325C66B42005055B6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE76DAC225C68A5D005055B6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE76DAD225C6D16D005055B6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EE6CFF4B25C54AB000A6C9B5 = {
+			isa = PBXGroup;
+			children = (
+				EE6CFF5625C54AB000A6C9B5 /* ONLINE JUDGE */,
+				EE6CFF6425C59B8300A6C9B5 /* 3n+1 Problem */,
+				EE76DAA925C658C5005055B6 /* The Trip */,
+				EE76DAB725C66B42005055B6 /* LCD Display */,
+				EE76DAC625C68A5D005055B6 /* Graphical Editor */,
+				EE76DAD625C6D16D005055B6 /* Check the Check */,
+				EE6CFF5525C54AB000A6C9B5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EE6CFF5525C54AB000A6C9B5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EE6CFF5425C54AB000A6C9B5 /* ONLINE JUDGE */,
+				EE6CFF6325C59B8300A6C9B5 /* 3n+1 Problem */,
+				EE76DAA825C658C5005055B6 /* The Trip */,
+				EE76DAB625C66B42005055B6 /* LCD Display */,
+				EE76DAC525C68A5D005055B6 /* Graphical Editor */,
+				EE76DAD525C6D16D005055B6 /* Check the Check */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EE6CFF5625C54AB000A6C9B5 /* ONLINE JUDGE */ = {
+			isa = PBXGroup;
+			children = (
+				EE6CFF5725C54AB000A6C9B5 /* main.cpp */,
+			);
+			path = "ONLINE JUDGE";
+			sourceTree = "<group>";
+		};
+		EE6CFF6425C59B8300A6C9B5 /* 3n+1 Problem */ = {
+			isa = PBXGroup;
+			children = (
+				EE6CFF6525C59B8300A6C9B5 /* main.cpp */,
+			);
+			path = "3n+1 Problem";
+			sourceTree = "<group>";
+		};
+		EE76DAA925C658C5005055B6 /* The Trip */ = {
+			isa = PBXGroup;
+			children = (
+				EE76DAAA25C658C5005055B6 /* main.cpp */,
+			);
+			path = "The Trip";
+			sourceTree = "<group>";
+		};
+		EE76DAB725C66B42005055B6 /* LCD Display */ = {
+			isa = PBXGroup;
+			children = (
+				EE76DAB825C66B42005055B6 /* main.cpp */,
+			);
+			path = "LCD Display";
+			sourceTree = "<group>";
+		};
+		EE76DAC625C68A5D005055B6 /* Graphical Editor */ = {
+			isa = PBXGroup;
+			children = (
+				EE76DAC725C68A5D005055B6 /* main.cpp */,
+			);
+			path = "Graphical Editor";
+			sourceTree = "<group>";
+		};
+		EE76DAD625C6D16D005055B6 /* Check the Check */ = {
+			isa = PBXGroup;
+			children = (
+				EE76DAD725C6D16D005055B6 /* main.cpp */,
+			);
+			path = "Check the Check";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EE6CFF5325C54AB000A6C9B5 /* ONLINE JUDGE */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE6CFF5B25C54AB000A6C9B5 /* Build configuration list for PBXNativeTarget "ONLINE JUDGE" */;
+			buildPhases = (
+				EE6CFF5025C54AB000A6C9B5 /* Sources */,
+				EE6CFF5125C54AB000A6C9B5 /* Frameworks */,
+				EE6CFF5225C54AB000A6C9B5 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "ONLINE JUDGE";
+			productName = "ONLINE JUDGE";
+			productReference = EE6CFF5425C54AB000A6C9B5 /* ONLINE JUDGE */;
+			productType = "com.apple.product-type.tool";
+		};
+		EE6CFF6225C59B8300A6C9B5 /* 3n+1 Problem */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE6CFF6925C59B8300A6C9B5 /* Build configuration list for PBXNativeTarget "3n+1 Problem" */;
+			buildPhases = (
+				EE6CFF5F25C59B8300A6C9B5 /* Sources */,
+				EE6CFF6025C59B8300A6C9B5 /* Frameworks */,
+				EE6CFF6125C59B8300A6C9B5 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "3n+1 Problem";
+			productName = "3n+1 Problem";
+			productReference = EE6CFF6325C59B8300A6C9B5 /* 3n+1 Problem */;
+			productType = "com.apple.product-type.tool";
+		};
+		EE76DAA725C658C5005055B6 /* The Trip */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE76DAAE25C658C5005055B6 /* Build configuration list for PBXNativeTarget "The Trip" */;
+			buildPhases = (
+				EE76DAA425C658C5005055B6 /* Sources */,
+				EE76DAA525C658C5005055B6 /* Frameworks */,
+				EE76DAA625C658C5005055B6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "The Trip";
+			productName = "The Trip";
+			productReference = EE76DAA825C658C5005055B6 /* The Trip */;
+			productType = "com.apple.product-type.tool";
+		};
+		EE76DAB525C66B42005055B6 /* LCD Display */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE76DABA25C66B42005055B6 /* Build configuration list for PBXNativeTarget "LCD Display" */;
+			buildPhases = (
+				EE76DAB225C66B42005055B6 /* Sources */,
+				EE76DAB325C66B42005055B6 /* Frameworks */,
+				EE76DAB425C66B42005055B6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "LCD Display";
+			productName = "LCD Display";
+			productReference = EE76DAB625C66B42005055B6 /* LCD Display */;
+			productType = "com.apple.product-type.tool";
+		};
+		EE76DAC425C68A5D005055B6 /* Graphical Editor */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE76DAC925C68A5D005055B6 /* Build configuration list for PBXNativeTarget "Graphical Editor" */;
+			buildPhases = (
+				EE76DAC125C68A5D005055B6 /* Sources */,
+				EE76DAC225C68A5D005055B6 /* Frameworks */,
+				EE76DAC325C68A5D005055B6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Graphical Editor";
+			productName = "Graphical Editor";
+			productReference = EE76DAC525C68A5D005055B6 /* Graphical Editor */;
+			productType = "com.apple.product-type.tool";
+		};
+		EE76DAD425C6D16D005055B6 /* Check the Check */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE76DAD925C6D16D005055B6 /* Build configuration list for PBXNativeTarget "Check the Check" */;
+			buildPhases = (
+				EE76DAD125C6D16D005055B6 /* Sources */,
+				EE76DAD225C6D16D005055B6 /* Frameworks */,
+				EE76DAD325C6D16D005055B6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Check the Check";
+			productName = "Check the Check";
+			productReference = EE76DAD525C6D16D005055B6 /* Check the Check */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EE6CFF4C25C54AB000A6C9B5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1220;
+				TargetAttributes = {
+					EE6CFF5325C54AB000A6C9B5 = {
+						CreatedOnToolsVersion = 12.2;
+					};
+					EE6CFF6225C59B8300A6C9B5 = {
+						CreatedOnToolsVersion = 12.2;
+					};
+					EE76DAA725C658C5005055B6 = {
+						CreatedOnToolsVersion = 12.2;
+					};
+					EE76DAB525C66B42005055B6 = {
+						CreatedOnToolsVersion = 12.2;
+					};
+					EE76DAC425C68A5D005055B6 = {
+						CreatedOnToolsVersion = 12.2;
+					};
+					EE76DAD425C6D16D005055B6 = {
+						CreatedOnToolsVersion = 12.2;
+					};
+				};
+			};
+			buildConfigurationList = EE6CFF4F25C54AB000A6C9B5 /* Build configuration list for PBXProject "ONLINE JUDGE" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EE6CFF4B25C54AB000A6C9B5;
+			productRefGroup = EE6CFF5525C54AB000A6C9B5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EE6CFF5325C54AB000A6C9B5 /* ONLINE JUDGE */,
+				EE6CFF6225C59B8300A6C9B5 /* 3n+1 Problem */,
+				EE76DAA725C658C5005055B6 /* The Trip */,
+				EE76DAB525C66B42005055B6 /* LCD Display */,
+				EE76DAC425C68A5D005055B6 /* Graphical Editor */,
+				EE76DAD425C6D16D005055B6 /* Check the Check */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EE6CFF5025C54AB000A6C9B5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE6CFF5825C54AB000A6C9B5 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE6CFF5F25C59B8300A6C9B5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE6CFF6625C59B8300A6C9B5 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE76DAA425C658C5005055B6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE76DAAB25C658C5005055B6 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE76DAB225C66B42005055B6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE76DAB925C66B42005055B6 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE76DAC125C68A5D005055B6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE76DAC825C68A5D005055B6 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE76DAD125C6D16D005055B6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE76DAD825C6D16D005055B6 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		EE6CFF5925C54AB000A6C9B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		EE6CFF5A25C54AB000A6C9B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		EE6CFF5C25C54AB000A6C9B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EE6CFF5D25C54AB000A6C9B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		EE6CFF6725C59B8300A6C9B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EE6CFF6825C59B8300A6C9B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		EE76DAAC25C658C5005055B6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EE76DAAD25C658C5005055B6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		EE76DABB25C66B42005055B6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EE76DABC25C66B42005055B6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		EE76DACA25C68A5D005055B6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EE76DACB25C68A5D005055B6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		EE76DADA25C6D16D005055B6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EE76DADB25C6D16D005055B6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EE6CFF4F25C54AB000A6C9B5 /* Build configuration list for PBXProject "ONLINE JUDGE" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE6CFF5925C54AB000A6C9B5 /* Debug */,
+				EE6CFF5A25C54AB000A6C9B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE6CFF5B25C54AB000A6C9B5 /* Build configuration list for PBXNativeTarget "ONLINE JUDGE" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE6CFF5C25C54AB000A6C9B5 /* Debug */,
+				EE6CFF5D25C54AB000A6C9B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE6CFF6925C59B8300A6C9B5 /* Build configuration list for PBXNativeTarget "3n+1 Problem" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE6CFF6725C59B8300A6C9B5 /* Debug */,
+				EE6CFF6825C59B8300A6C9B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE76DAAE25C658C5005055B6 /* Build configuration list for PBXNativeTarget "The Trip" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE76DAAC25C658C5005055B6 /* Debug */,
+				EE76DAAD25C658C5005055B6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE76DABA25C66B42005055B6 /* Build configuration list for PBXNativeTarget "LCD Display" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE76DABB25C66B42005055B6 /* Debug */,
+				EE76DABC25C66B42005055B6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE76DAC925C68A5D005055B6 /* Build configuration list for PBXNativeTarget "Graphical Editor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE76DACA25C68A5D005055B6 /* Debug */,
+				EE76DACB25C68A5D005055B6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE76DAD925C6D16D005055B6 /* Build configuration list for PBXNativeTarget "Check the Check" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE76DADA25C6D16D005055B6 /* Debug */,
+				EE76DADB25C6D16D005055B6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EE6CFF4C25C54AB000A6C9B5 /* Project object */;
+}
